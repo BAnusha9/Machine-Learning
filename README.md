@@ -2,7 +2,7 @@
 # KNN 
 # Breast Cancer Identification using K-Nearest Neighbors Algorithm (KNN)
 
- Breast cancer develops in breast cells, and as per statistics of 2019 in the U.S., About 1 in 8 U.S. women (about 12%) will develop invasive breast cancer throughout their lifetime. Breast cancer is an equally critical disease in dogs and cats: It is the most common tumor found in female dogs and the third most prevalent tumor detected in cats. So the early diagnosis is crucial for survival. It is important to note that most breast lumps are benign and not cancer (malignant). Non-cancerous breast tumors are abnormal growths but do not spread outside the breast. So another big challenge is to identify if the cancer lumps are malignant or benign. This article shows how the machine learning approach KNN can be used for this identification task.
+ Breast cancer develops in breast cells, and as per statistics of 2019 in the U.S., About 1 in 8 U.S. women (about 12%) will develop invasive breast cancer throughout their lifetime. Breast cancer is an equally critical disease in dogs and cats: It is the most common tumor found in female dogs and the third most prevalent tumor detected in cats. So the early diagnosis is crucial for survival. It is important to note that most breast lumps are benign and not cancer (malignant). Non-cancerous breast tumors are abnormal growths but do not spread outside the breast. So another big challenge is to identify if the cancer lumps are malignant or benign. now we will see how the machine learning approach KNN can be used for this identification task.
  
 # K-Nearest Neighbors Algorithm
 
